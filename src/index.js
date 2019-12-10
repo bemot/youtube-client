@@ -9,7 +9,7 @@ import Header from "./components/Header";
 import _ from "lodash";
 import "./style/style.css";
 
-const API_KEY = "AIzaSyDu7YnyiQuuEtZ4RbgTT8vYy0J2jZk87Lk";
+const API_KEY = "trust it please";
 
 class App extends Component {
     constructor(props) {
